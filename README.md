@@ -1,3 +1,3 @@
 # Python-IMDB-Ratings-Of-Movies.    
 
-Ratings Of different movies at a 
+Ratings Of different movies From Python IMDB Module
